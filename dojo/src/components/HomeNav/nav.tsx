@@ -257,6 +257,7 @@ export default function Nav() {
         }
         .animate-fadeInUp {
           animation: fadeInUp 0.3s cubic-bezier(.23,1.01,.32,1) both;
+		//   hygine
         }
       `}</style>
 		</nav>
